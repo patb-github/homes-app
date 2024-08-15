@@ -7,8 +7,7 @@ This mini-project is a frontend application made with Angular following the YouT
 4. Using a Reactive form
 5. Using HTTP requests to fetch data
 
-<img src="./images/home.png" height=350>
-<img src="./images/details.png" height=350>
+<img src="./images/home.png" height=350><img src="./images/details.png" height=350>
 
 ## Installation
 
